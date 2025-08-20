@@ -337,7 +337,7 @@ npm run db:push
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Resources
+## Resources and Stuff
 
 - [Firecrawl API](https://docs.firecrawl.dev)
 - [Next.js Documentation](https://nextjs.org/docs)
